@@ -248,7 +248,7 @@ def shipPlacementSelection():
 
 
 
-    userShipPlacementSelection_Window.  
+    userShipPlacementSelection_Window.protocol( "WM_DELETE_WINDOW" , exit )
     userShipPlacementSelection_Window.mainloop()
 
 
