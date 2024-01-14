@@ -1,7 +1,3 @@
-# Bellotta Lorenzo e Testa Maurizio: battaglia navale
-
-
-
 # inizializzazione di customtkinter con i suoi settings di default
 import customtkinter
 customtkinter.set_appearance_mode("System")
