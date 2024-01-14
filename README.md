@@ -12,8 +12,8 @@ This python program allows the user to play the notorious board game "Battleship
 ## Getting Started
 
 DISC requires the presence of customtkinter and pygame on the system. To install them you want to run from the terminal the following commands:
-- `pip install customtkinter`;
-- `pip install pygame`.
+- `pip install customtkinter` ;
+- `pip install pygame` .
 
 ## Usage
 
@@ -28,5 +28,5 @@ In the central part of the screen you will have to input the coordinates in whic
 
 ## Authors
 
-[DarkMatt3r06](https://github.com/DarkMatt3r06)
-Maurizio (the link to his GitHub profile is unavailable)
+- [DarkMatt3r06](https://github.com/DarkMatt3r06) ;
+- Maurizio (the link to his GitHub profile is unavailable) .
