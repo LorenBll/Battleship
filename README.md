@@ -20,10 +20,10 @@ DISC requires the presence of customtkinter and pygame on the system. To install
 Battleship is a GUI provided application. After starting it up you will be asked to choose a difficulty and provided the chance to change the app's theme before the game starts. 
 
 Unfortunately the game does not provide a way to effectively place ships the way you would like to. However a ship placement configuration will be randomly generated for you and you will be asked if you want to keep it that way or change it.
-![Image of the Ship Placement Window.](.\readmeImages\shipPlacementWindow.png)
+![Image of the Ship Placement Window.](./readmeImages/shipPlacementWindow.png)
 
 The game will start with your turn: 
-![Image of the Window in which you will play the game.](.\readmeImages\runningGame.png)
+![Image of the Window in which you will play the game.](./readmeImages/runningGame.png)
 In the central part of the screen you will have to input the coordinates in which you want to hit your opponent. The moment one board has no more ships on it the game will end, you will be shown the result of the match and asked if you want to play again.
 
 ## Authors
