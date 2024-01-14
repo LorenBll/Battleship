@@ -32,4 +32,4 @@ In the central part of the screen you will have to input the coordinates in whic
 ## Authors
 
 - [DarkMatt3r06](https://github.com/DarkMatt3r06) ;
-- Maurizio (the link to his GitHub profile is unavailable) .a
+- Maurizio (the link to his GitHub profile is unavailable) .
